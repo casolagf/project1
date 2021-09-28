@@ -1,0 +1,56 @@
+textarea {
+    width: 90%;
+    height: 20%;
+    margin-top: 4px;
+    resize: none;
+}
+
+button {
+    background-color: #66369D;
+    color: white;
+    margin-top: 10px;
+    padding: 10px;
+    width: 150px;
+    font-size: large;
+}
+
+label {
+    font-size: x-large;
+    margin-top: 15px;
+    font-weight: bolder;
+
+}
+
+input {
+    margin-top: 4px;
+    width: 90%;
+    height: 6%;
+}
+
+form {
+    border: solid thin black;
+    background-color:#BF9553;
+    padding: 25px;
+    width: 50%;
+    align-items: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.content {
+    padding-top: 50px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.contact-info {
+    margin-top: 50px;
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+img {
+    height: 40%;
+    width: 40%;
+    display: inline-block;
+    border: thin black solid;
+}
+
+.content {
+    padding-top: 100px;
+}
+
+.exec-member {
+    border: solid thin black;
+    margin-top: 15px;
+    display: flex;
+}
+
+h2 {
+    display: inline;
+    position: relative;
+}

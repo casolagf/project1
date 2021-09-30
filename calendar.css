@@ -1,0 +1,40 @@
+.blank {
+    background-color: #BF9553;
+}
+
+td {
+    height: 150px;
+    width: 150px;
+    border: thin solid black;
+    text-align: start;
+    font-weight: bolder;
+    color: black;
+    background-color: #B97F24;
+    padding: 2px;
+
+}
+
+.content {
+    padding-top: 75px;
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border:thin solid black;
+    text-align: center;
+    padding: 10px;
+    background-color:#66369D;
+    color: white;
+    text-align: center;
+
+}
+
+p {
+    font-size: 15pt;
+    text-align: center;
+}
+
+th {
+    font-size: 20pt;
+}

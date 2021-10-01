@@ -1,0 +1,29 @@
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 400px;
+    height: 300px;
+    padding: 25px;
+    display: inline-block;
+    border: solid thin black;
+    margin-top: 15px;
+    background-color: #BF9553;
+    font-size: 13pt;
+    font-family: fantasy;
+}
+  
+
+.content {
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+h1 {
+    padding-top: 75px;
+    text-align: center;
+}

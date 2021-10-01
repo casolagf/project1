@@ -9,8 +9,9 @@ td {
     text-align: start;
     font-weight: bolder;
     color: black;
-    background-color: #B97F24;
-    padding: 2px;
+    background-color: #BF9553;
+    padding: 3px;
+    font-family: cursive;
 
 }
 
@@ -37,4 +38,5 @@ p {
 
 th {
     font-size: 20pt;
+    font-family: monospace;
 }

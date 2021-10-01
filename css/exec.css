@@ -8,6 +8,9 @@
     display: inline-block;
     border: solid thin black;
     margin-top: 15px;
+    background-color: #BF9553;
+    font-size: 13pt;
+    font-family: fantasy;
 }
   
 /* On mouse-over, add a deeper shadow */

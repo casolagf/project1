@@ -44,6 +44,8 @@ form {
 
 .content {
     padding-top: 50px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1, h2 {

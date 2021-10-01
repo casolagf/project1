@@ -40,13 +40,33 @@
     right: 50px;
 }
 
-.intro {
-    width: 50%;
-    border: thin black solid;
-    margin-top: 100px;
-    padding: 25px;
-}
 
 body {
     background-color: #CDC7D9;
+}
+
+@keyframes example {
+    0% {
+      background-color: lightskyblue;
+    }
+    100% {
+      background-color: lightpink;
+    }
+}
+
+#animate {
+    animation-name: example;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    position: fixed;
+    bottom:0;
+    left:0;
+    height: 30px;
+    width: 100%;
+    text-align: center;
+    font-weight: bolder;
+}
+
+body {
+    padding-bottom: 50px;
 }

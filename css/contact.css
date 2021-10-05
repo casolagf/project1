@@ -48,8 +48,13 @@ form {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h1, h2 {
+h1 {
     text-align: center;
+}
+
+h2 {
+    text-align: left;
+    padding-left: 35px;
 }
 
 .contact-info {
